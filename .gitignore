@@ -1,0 +1,4 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+part_a_numerical/data/processed_splits.joblib
